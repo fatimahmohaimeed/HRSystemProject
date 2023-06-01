@@ -1,5 +1,5 @@
 # HR System Project
-First Project is Console App in Tuwaiq Academy .Net Development Training
+### First Project is Console App in Tuwaiq Academy .Net Development Training
 HR System
 - there is 2  role in the system 
 - manager 
@@ -12,7 +12,7 @@ HR System
 4. Delete an employee
 
 _______________________
-### If the user is an employee will display 2 choices:
+#### If the user is an employee will display 2 choices:
 1. List your details
 2. Change your department
 
