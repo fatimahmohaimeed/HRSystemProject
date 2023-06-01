@@ -1,6 +1,6 @@
 # HR System Project
 ### First Project is Console App in Tuwaiq Academy .Net Development Training
-HR System
+### HR System
 - There is 2  role in the system 
 - Manager 
 - Employee 
