@@ -4,7 +4,7 @@
 - There is 2  role in the system 
 - Manager 
 - Employee 
-
+_______________________
 #### If the user is a manager will display 4 choices:
 1. Create a new employee
 2. List department employees
