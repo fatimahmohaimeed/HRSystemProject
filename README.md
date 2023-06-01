@@ -1,9 +1,9 @@
 # HR System Project
 ### First Project is Console App in Tuwaiq Academy .Net Development Training
 HR System
-- there is 2  role in the system 
-- manager 
-- employee 
+- There is 2  role in the system 
+- Manager 
+- Employee 
 
 #### If the user is a manager will display 4 choices:
 1. Create a new employee
